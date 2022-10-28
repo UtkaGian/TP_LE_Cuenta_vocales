@@ -14,7 +14,6 @@ void Lector_Vocales (char string[LIM]);
 
 int main()
 {
-	int basura;
 	char string[LIM] = {'\0'}, decision;
 	printf("\nBienvenido a nuestro programa...\n");
 	printf("Ingrese un string de MAXIMO 20 caraters para contar las vocales\n>>> ");
